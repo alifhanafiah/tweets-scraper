@@ -26,7 +26,7 @@ Before getting started, make sure you have the following installed:
 1. **Clone the Repository**: Open your terminal and clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/twitter-scraper.git
+   git clone https://github.com/alifhanafiah/tweets-scraper.git
    ```
 
 1. **Create a Virtual Environment**: Open your Anaconda or Miniconda terminal and create a virtual environment:
